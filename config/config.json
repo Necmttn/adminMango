@@ -1,1 +1,8 @@
-{}
+{
+  "connections": {
+    "test": {
+      "connection_string": "mongodb://mac:pass@localhost:27017/admin",
+      "connection_options": {}
+    }
+  }
+}
